@@ -14,3 +14,6 @@
 5. model_inference ფაილში, ტესტების მონაცემებში არსებული ხარვეზის გამო (ტესტების სვეტების სახელების ნაწილი განსხვავდებოდა ტრეინის სვეტების სახელებისგან) ტრეინის მონაცემების სტილს მოვარგე სვეტების სახელები.
 
 საუკეთესო მოდელი აღმოჩნდა XGBoost standardScaler-ის გამოყენებით - 0.9380098243599908 - ამ მოდელმა ძალიან მცირე განსხვავება მომცა ტრეინ და ტესტ მონაცემებს შორის, დაახლოებით 0.01.
+https://dagshub.com/electrolizzys/Fraud_Detection.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
+https://dagshub.com/electrolizzys/Fraud_Detection.mlflow/#/models/XGBoost_final
